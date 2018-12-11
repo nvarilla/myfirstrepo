@@ -1,6 +1,6 @@
-public class Joe {
+ public class Joe {
 	public static void main(String[] args) {
-		System.out.println("Tis Joe");
+		System.out.println("Tis Joe & Dad");
 	}
 }
 
